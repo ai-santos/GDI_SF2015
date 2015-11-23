@@ -1,0 +1,19 @@
+Angular JS - GDI SF 2015
+
+DOM -
+-how you interact with your html & javascript to manipulate the browser
+-code behind what appears on the page
+
+NG-directives
+-wrap expressions in click event functions rather than including it in your html
+-use directives for reusable components -
+
+CUSTOM DIRECTIVES
+-scope without the dollar sign is connected to the controller that is connected to your view
+-a way for the directive to communicate with your controller 
+
+SERVICE
+-a way of getting data for your application
+Custom Services
+-called FACTORIES
+-don't do HTTP REQUESTS in the controller - NOT BEST PRACTICE!!
